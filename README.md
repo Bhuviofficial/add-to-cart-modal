@@ -38,7 +38,7 @@ This project implements an Add-to-Cart modal used to confirm item additions to a
 ## Installation
 1. Clone repository:
     ```bash
-    git clone <repo-url> add-to-cart-modal
+    git clone https://github.com/Bhuviofficial/add-to-cart-modal
     cd add-to-cart-modal
     ```
 2. Install dependencies:
